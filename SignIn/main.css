@@ -1,0 +1,122 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v8_100 {
+  width: 375px;
+  height: 812px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v8_101 {
+  width: 375px;
+  height: 812px;
+  background: url("../images/v8_101.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v8_102 {
+  width: 261px;
+  color: rgba(55,101,218,1);
+  position: absolute;
+  top: 234px;
+  left: 74px;
+  font-family: JejuGothic;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v8_107 {
+  width: 287px;
+  height: 45px;
+  background: rgba(145,182,252,0.8299999833106995);
+  opacity: 1;
+  position: absolute;
+  top: 303px;
+  left: 48px;
+  overflow: hidden;
+}
+.v8_108 {
+  width: 287px;
+  height: 45px;
+  background: rgba(145,182,252,0.8299999833106995);
+  opacity: 1;
+  position: absolute;
+  top: 406px;
+  left: 48px;
+  overflow: hidden;
+}
+.v8_109 {
+  width: 248px;
+  color: rgba(0,0,0,0.9100000262260437);
+  position: absolute;
+  top: 283px;
+  left: 48px;
+  font-family: JejuGothic;
+  font-weight: Regular;
+  font-size: 13px;
+  opacity: 1;
+  text-align: left;
+}
+.v8_110 {
+  width: 248px;
+  color: rgba(0,0,0,0.9100000262260437);
+  position: absolute;
+  top: 386px;
+  left: 48px;
+  font-family: JejuGothic;
+  font-weight: Regular;
+  font-size: 13px;
+  opacity: 1;
+  text-align: left;
+}
+.v8_115 {
+  width: 132px;
+  height: 69px;
+  background: url("../images/v8_115.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 509px;
+  left: 126px;
+  overflow: hidden;
+}
+.v8_116 {
+  width: 212px;
+  color: rgba(75,135,27,1);
+  position: absolute;
+  top: 605px;
+  left: 20px;
+  font-family: JejuGothic;
+  font-weight: Regular;
+  font-size: 13px;
+  opacity: 1;
+  text-align: left;
+}
+.v8_117 {
+  width: 109px;
+  color: rgba(75,135,27,1);
+  position: absolute;
+  top: 605px;
+  left: 232px;
+  font-family: JejuGothic;
+  font-weight: Regular;
+  font-size: 13px;
+  opacity: 1;
+  text-align: left;
+}
